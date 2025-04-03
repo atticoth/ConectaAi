@@ -1,0 +1,50 @@
+{
+  "expo": {
+    "name": "conectaai",
+    "slug": "conectaai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/imagens/icone.png",
+    "userInterfaceStyle": "light",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "splash": {
+      "image": "./assets/imagens/icone.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "android": {
+      "adaptiveIcon": {
+      "foregroundImage": "./assets/imagens/icone.png",
+      "backgroundColor": "#ffffff"
+    },
+      "package": "com.graoliveira.conectaai",
+      "versionCode": 2
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.graoliveira.conectaai",
+      "buildNumber": "2",
+      "infoPlist": {
+           "LSMinimumSystemVersion": "12.0"
+         }
+    },
+    "web": {
+      "favicon": "./assets/imagens/icone.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0969a4c8-ad49-4930-8a1c-cc31e61a111b"
+      }
+    },
+    "plugins": [
+      "expo-build-properties"
+    ]
+  }
+}
