@@ -22,7 +22,7 @@
       "backgroundColor": "#ffffff"
     },
       "package": "com.graoliveira.conectaai",
-      "versionCode": 2
+      "versionCode": 3
     },
     "assetBundlePatterns": [
       "**/*"
