@@ -20,14 +20,14 @@ android {
     ndkVersion rootProject.ext.ndkVersion
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
-    namespace 'com.graoliveira.conectaai'
+    namespace 'com.medeirosge.conectaai'
 
     defaultConfig {
-        applicationId 'com.graoliveira.conectaai'
+        applicationId 'com.medeirosge.conectaai'
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 4
-        versionName "2.0.1"
+        versionCode 5
+        versionName "2.0.2"
     }
 
     signingConfigs {
