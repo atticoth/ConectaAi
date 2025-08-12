@@ -7,11 +7,7 @@
     "orientation": "portrait",
     "icon": "./assets/imagens/icone.png",
     "userInterfaceStyle": "light",
-    "platforms": [
-      "ios",
-      "android",
-      "web"
-    ],
+    "platforms": ["ios", "android", "web"],
     "splash": {
       "image": "./assets/imagens/icone.png",
       "resizeMode": "contain",
@@ -25,9 +21,7 @@
       "package": "com.medeirosge.conectaai",
       "versionCode": 4
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.medeirosge.conectaai",
@@ -39,12 +33,10 @@
     "web": {
       "favicon": "./assets/imagens/icone.png"
     },
-    "plugins": [
-      "expo-build-properties"
-    ],
+    "plugins": ["expo-build-properties"],
     "extra": {
       "eas": {
-        "projectId": "1d5ad9e9-bf1c-41f2-8d75-66fc24dd2eaa"
+        "projectId": "0969a4c8-ad49-4930-8a1c-cc31e61a111b"
       }
     }
   }
