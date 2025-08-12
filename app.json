@@ -22,7 +22,7 @@
         "foregroundImage": "./assets/imagens/icone.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.medeirosge.conectai",
+      "package": "com.medeirosge.conectaai",
       "versionCode": 4
     },
     "assetBundlePatterns": [
@@ -30,7 +30,7 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.medeirosge.conectai",
+      "bundleIdentifier": "com.medeirosge.conectaai",
       "buildNumber": "3",
       "infoPlist": {
         "LSMinimumSystemVersion": "12.0"

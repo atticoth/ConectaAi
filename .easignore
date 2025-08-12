@@ -1,0 +1,28 @@
+# Expo/gerados
+.expo/
+web-build/
+dist/
+build/
+
+# Node/IDE
+node_modules/
+npm-debug.*
+yarn-*.log
+.idea/
+.vscode/
+.DS_Store
+
+# Android/iOS (builds e caches)
+android/
+ios/
+*.apk
+*.aab
+*.ipa
+.gradle/
+
+# Mídias e arquivos pesados
+*.mp4
+*.mov
+*.zip
+*.rar
+*.hprof
