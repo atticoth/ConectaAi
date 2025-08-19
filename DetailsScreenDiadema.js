@@ -27,7 +27,7 @@ export function DetailsScreenDiadema({ navigation }) {
                 screenName = 'PontoTuristico12';
                 break;
             default:
-                screenName = 'HomeScreen'; // Tela padrão, se necessário
+                screenName = 'HomeScreen'; 
                 break;
         }
 
