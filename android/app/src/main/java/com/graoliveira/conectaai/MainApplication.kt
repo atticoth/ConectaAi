@@ -1,4 +1,4 @@
-package com.graoliveira.conectaai
+package com.medeirosge.conectaai
 
 import android.app.Application
 import android.content.res.Configuration
