@@ -56,8 +56,8 @@ O projeto usa o Expo versão 50 dessa forma a versão do Expo Go precisa ser a m
 ## Gerando a build
 
 Build para plataforma Android
-
-    eas build --platform android
+    $env:EAS_NO_VCS="1"        
+    eas build --platform android --profile production
 
 
 Build para plataforma iOS
